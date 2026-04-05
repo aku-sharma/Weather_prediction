@@ -1,11 +1,11 @@
-# 🌦 Weather Prediction App
+**# 🌦 Weather Prediction App
 
 An **interactive Machine Learning project** that predicts temperature based on environmental factors such as **humidity, wind speed, and pressure**. The project features a **real-time dashboard** built using **Streamlit**, enabling users to explore dataset trends and make temperature predictions dynamically.
 
 ---
 
 ## 🔗 Live Demo
-Experience the app online: [Weather Prediction App](https://weatherprediction-aagg3dahbcirefbpkze3um.streamlit.app/)
+Try it online: [Weather Prediction App](https://weatherprediction-aagg3dahbcirefbpkze3um.streamlit.app/)
 
 ---
 
@@ -19,27 +19,18 @@ Experience the app online: [Weather Prediction App](https://weatherprediction-aa
 ---
 
 ## 📊 Dataset
-- Source: `data/data.csv`  
-- Columns included:  
-  - `temperature` (°C)  
-  - `humidity` (%)  
-  - `wind_speed` (km/h)  
-  - `pressure` (hPa)  
-
-> The dataset contains historical weather data, used to train a **Linear Regression model** for predicting temperature.
+- Columns: `temperature`, `humidity`, `wind_speed`, `pressure`  
+- Historical weather data used for training the Linear Regression model
 
 ---
 
-## 🛠 Tools & Technologies
-- **Python** – Core programming language  
-- **Pandas** – Data manipulation and analysis  
-- **Scikit-learn** – Machine Learning (Linear Regression)  
-- **Streamlit** – Interactive web app framework  
-- **Matplotlib** – Data visualization  
+## 🏆 Outcome
+- Predict temperature dynamically based on current environmental inputs  
+- Visual insights into historical temperature trends  
+- Demonstrates **end-to-end ML workflow**, from data preprocessing to deployment
 
 ---
 
-## 💻 How to Run Locally
-1. **Clone the repository**
-```bash
-git clone <your-repo-url>
+## 👤 Author
+Akansha Sharma
+
